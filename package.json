@@ -1,0 +1,11 @@
+{
+  "name": "airlock-transfer",
+  "version": "1.0.0",
+  "description": "Secure, isolated mobile-to-PC file transfer via an ephemeral Python bridge.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Akhil",
+  "license": "MIT"
+}

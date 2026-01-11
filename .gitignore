@@ -1,0 +1,16 @@
+# 1. Ignore everything in the repository by default
+/*
+
+# 2. Specifically ignore the two internal directories
+.tmp_mobile_transfer/
+transferred_files/
+
+# 3. Explicitly allow (unignore) your code and documentation
+!index.js
+!README.md
+!.gitignore
+!package.json
+
+# 4. Ignore system/node junk
+node_modules/
+.DS_Store
