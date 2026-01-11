@@ -7,6 +7,7 @@ transferred_files/
 
 # 3. Explicitly allow (unignore) your code and documentation
 !index.js
+!screenshots/
 !README.md
 !.gitignore
 !package.json

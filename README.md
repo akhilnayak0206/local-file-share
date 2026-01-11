@@ -18,8 +18,7 @@ Standard file sharing (like Samba or SMB) often requires complex permissions and
   ```bash
   sudo apt update
   sudo apt install python3 python3-venv
-
-```
+  ```
 
 ## 🚀 Quick Start
 
@@ -34,6 +33,8 @@ cd airlock-transfer
 npm start
 
 ```
+
+![Terminal Screenshot](screenshots/terminal.png)
 
 
 3. **Transfer Cargo:**
